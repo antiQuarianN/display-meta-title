@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Display meta title
 // @namespace    https://github.com/antiQuarianN
-// @version      3.2.1
+// @version      3.2.2
 // @description  Displays the meta title above the <body> tag. There is an option to hide and unhide.
 // @author       antiQuarianN
 // @match        *://*/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/antiQuarianN/display-meta-title/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/antiQuarianN/display-meta-title/main/script.user.js
 // @noframes
 // ==/UserScript==
 
